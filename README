@@ -1,0 +1,3 @@
+Lookup company information from Danish companies based on their cvr number on www.cvr.dk.
+
+Information is returned as a dictionary, keys are in Danish. 
